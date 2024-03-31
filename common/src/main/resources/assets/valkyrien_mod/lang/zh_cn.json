@@ -5,11 +5,11 @@
   "vmod.gui.axis": "轴承",
   "vmod.gui.strip": "剥离",
 
-  "vmod.gui.setting.compliance": "力顺",
+  "vmod.gui.setting.compliance": "柔性",
   "vmod.gui.setting.max_force": "可承受的最大力",
-  "vmod.gui.setting.fixed_distance": "固定距离",
-  "vmod.gui.setting.width": "宽度",
-  "vmod.gui.setting.segments": "段数",
+  "vmod.gui.setting.fixed_distance": "绳子长度，负数则自动识别",
+  "vmod.gui.setting.width": "材质宽度",
+  "vmod.gui.setting.segments": "绳子段数",
   "vmod.gui.setting.extension_speed": "延展速度",
   "vmod.gui.setting.extension_distance": "延展距离",
   "vmod.gui.setting.channel": "频道",
@@ -21,19 +21,19 @@
   "vmod.gui.setting.disable_collisions": "关闭碰撞",
   "vmod.gui.setting.distance_from_block": "距该方块的距离",
 
-  "vmod.gui.setting.hitpos_modes": "选点模式",
-  "vmod.gui.setting.normal": "普通",
-  "vmod.gui.setting.centered_on_side": "面中心",
+  "vmod.gui.setting.hitpos_modes": "连接位置",
+  "vmod.gui.setting.normal": "鼠标点击点",
+  "vmod.gui.setting.centered_on_side": "点击面中心",
   "vmod.gui.setting.centered_in_block": "方块中心",
 
-  "key.vmod.gui_open_or_close": "打开或关闭工具枪GUI",
-  "key.vmod.remove_top_constraint": "解除顶部约束",
-  "key.vmod.reset_constraint_mode": "重置约束模式",
+  "key.vmod.gui_open_or_close": "开关工具枪GUI",
+  "key.vmod.remove_top_constraint": "撤销上一个焊接",
+  "key.vmod.reset_constraint_mode": "重置焊接模式",
   "vmod.keymappings_name": "VMod 工具枪",
 
   "item.valkyrien_mod.toolgun": "工具枪",
 
-  "block.valkyrien_mod.simple_messager": "简单的消息发送器",
+  "block.valkyrien_mod.simple_messager": "液压控制器",
   
   "itemGroup.valkyrien_mod.vmod_tab": "VMod"
 }
